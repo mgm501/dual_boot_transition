@@ -34,7 +34,7 @@ def listtwobodymatrixelement():
  for i in range(0,16):
   for j in range(i,16):
    ltot = vector1[i][1] + vector1[j][1]
-   mj1 = vector1[i][3] 
+   mj1 = vector1[i][3]
    mj2 = vector1[j][3]
    random = 0
    if vector1[i][1] == vector1[j][1] and vector1[i][2] == vector1[j][2] and mj1 + mj2 == 0:
