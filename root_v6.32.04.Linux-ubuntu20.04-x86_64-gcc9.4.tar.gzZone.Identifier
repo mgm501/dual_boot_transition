@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://root.cern/
+HostUrl=https://root.cern/download/root_v6.32.04.Linux-ubuntu20.04-x86_64-gcc9.4.tar.gz
